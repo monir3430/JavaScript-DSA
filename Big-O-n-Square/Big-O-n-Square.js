@@ -6,5 +6,5 @@ function nestedLoop(n){
         }
     }
 }
-
+// Time Complexity of O(n)
 nestedLoop(10);
